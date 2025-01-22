@@ -47,3 +47,6 @@ Comprehensive system benchmarking suite
 <div align="center">
 Feel free to reach out and collaborate! 🤝
 </div>
+<div align="center">
+I use arch btw
+</div>
